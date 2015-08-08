@@ -1,0 +1,28 @@
+// Place all the styles related to the Messages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container{
+
+}
+.message:hover{
+	border: 2px solid #222222;
+
+}
+.btn-new{
+	text-align: center;
+	position: fixed;
+	margin-top: 200px;
+	border-radius: 7px;
+	font-size: 20px;
+	padding: 30px;
+	font-family: 'ubuntu';
+	color: #222222;
+	width: 225px;
+	background-color: #FF8C00;
+}
+
+.btn-new:hover{
+	border: 2px solid #222222;
+}
+
